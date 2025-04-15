@@ -1,0 +1,16 @@
+D:\上課做的練習\CS20221125B\CS20221125B\bin\Debug\CS20221125B.exe.config
+D:\上課做的練習\CS20221125B\CS20221125B\bin\Debug\CS20221125B.exe
+D:\上課做的練習\CS20221125B\CS20221125B\bin\Debug\CS20221125B.pdb
+D:\上課做的練習\CS20221125B\CS20221125B\obj\Debug\CS20221125B.csproj.AssemblyReference.cache
+D:\上課做的練習\CS20221125B\CS20221125B\obj\Debug\CS20221125B.csproj.SuggestedBindingRedirects.cache
+D:\上課做的練習\CS20221125B\CS20221125B\obj\Debug\CS20221125B.csproj.CoreCompileInputs.cache
+D:\上課做的練習\CS20221125B\CS20221125B\obj\Debug\CS20221125B.exe
+D:\上課做的練習\CS20221125B\CS20221125B\obj\Debug\CS20221125B.pdb
+D:\user\Desktop\認真用\學業用\明新科大\111-1程式設計概論\上課做的練習\CS20221125B\CS20221125B\bin\Debug\CS20221125B.exe.config
+D:\user\Desktop\認真用\學業用\明新科大\111-1程式設計概論\上課做的練習\CS20221125B\CS20221125B\bin\Debug\CS20221125B.exe
+D:\user\Desktop\認真用\學業用\明新科大\111-1程式設計概論\上課做的練習\CS20221125B\CS20221125B\bin\Debug\CS20221125B.pdb
+D:\user\Desktop\認真用\學業用\明新科大\111-1程式設計概論\上課做的練習\CS20221125B\CS20221125B\obj\Debug\CS20221125B.csproj.AssemblyReference.cache
+D:\user\Desktop\認真用\學業用\明新科大\111-1程式設計概論\上課做的練習\CS20221125B\CS20221125B\obj\Debug\CS20221125B.csproj.SuggestedBindingRedirects.cache
+D:\user\Desktop\認真用\學業用\明新科大\111-1程式設計概論\上課做的練習\CS20221125B\CS20221125B\obj\Debug\CS20221125B.csproj.CoreCompileInputs.cache
+D:\user\Desktop\認真用\學業用\明新科大\111-1程式設計概論\上課做的練習\CS20221125B\CS20221125B\obj\Debug\CS20221125B.exe
+D:\user\Desktop\認真用\學業用\明新科大\111-1程式設計概論\上課做的練習\CS20221125B\CS20221125B\obj\Debug\CS20221125B.pdb
