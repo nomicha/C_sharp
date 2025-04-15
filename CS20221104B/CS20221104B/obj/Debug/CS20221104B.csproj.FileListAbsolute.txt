@@ -1,0 +1,16 @@
+D:\CS20221104B\CS20221104B\bin\Debug\CS20221104B.exe.config
+D:\CS20221104B\CS20221104B\bin\Debug\CS20221104B.exe
+D:\CS20221104B\CS20221104B\bin\Debug\CS20221104B.pdb
+D:\CS20221104B\CS20221104B\obj\Debug\CS20221104B.csproj.AssemblyReference.cache
+D:\CS20221104B\CS20221104B\obj\Debug\CS20221104B.csproj.SuggestedBindingRedirects.cache
+D:\CS20221104B\CS20221104B\obj\Debug\CS20221104B.csproj.CoreCompileInputs.cache
+D:\CS20221104B\CS20221104B\obj\Debug\CS20221104B.exe
+D:\CS20221104B\CS20221104B\obj\Debug\CS20221104B.pdb
+D:\user\Desktop\認真用\學業用\明新科大\111-1程式設計概論\上課做的練習\CS20221104B\CS20221104B\bin\Debug\CS20221104B.exe.config
+D:\user\Desktop\認真用\學業用\明新科大\111-1程式設計概論\上課做的練習\CS20221104B\CS20221104B\bin\Debug\CS20221104B.exe
+D:\user\Desktop\認真用\學業用\明新科大\111-1程式設計概論\上課做的練習\CS20221104B\CS20221104B\bin\Debug\CS20221104B.pdb
+D:\user\Desktop\認真用\學業用\明新科大\111-1程式設計概論\上課做的練習\CS20221104B\CS20221104B\obj\Debug\CS20221104B.csproj.AssemblyReference.cache
+D:\user\Desktop\認真用\學業用\明新科大\111-1程式設計概論\上課做的練習\CS20221104B\CS20221104B\obj\Debug\CS20221104B.csproj.SuggestedBindingRedirects.cache
+D:\user\Desktop\認真用\學業用\明新科大\111-1程式設計概論\上課做的練習\CS20221104B\CS20221104B\obj\Debug\CS20221104B.csproj.CoreCompileInputs.cache
+D:\user\Desktop\認真用\學業用\明新科大\111-1程式設計概論\上課做的練習\CS20221104B\CS20221104B\obj\Debug\CS20221104B.exe
+D:\user\Desktop\認真用\學業用\明新科大\111-1程式設計概論\上課做的練習\CS20221104B\CS20221104B\obj\Debug\CS20221104B.pdb

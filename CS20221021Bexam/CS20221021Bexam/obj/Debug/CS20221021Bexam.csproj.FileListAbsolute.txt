@@ -1,0 +1,8 @@
+D:\user\Desktop\認真用\學業用\明新科大\111-1程式設計概論\上課做的練習\CS20221021Bexam\CS20221021Bexam\obj\Debug\CS20221021Bexam.csproj.AssemblyReference.cache
+D:\user\Desktop\認真用\學業用\明新科大\111-1程式設計概論\上課做的練習\CS20221021Bexam\CS20221021Bexam\obj\Debug\CS20221021Bexam.csproj.SuggestedBindingRedirects.cache
+D:\user\Desktop\認真用\學業用\明新科大\111-1程式設計概論\上課做的練習\CS20221021Bexam\CS20221021Bexam\obj\Debug\CS20221021Bexam.csproj.CoreCompileInputs.cache
+D:\user\Desktop\認真用\學業用\明新科大\111-1程式設計概論\上課做的練習\CS20221021Bexam\CS20221021Bexam\bin\Debug\CS20221021Bexam.exe.config
+D:\user\Desktop\認真用\學業用\明新科大\111-1程式設計概論\上課做的練習\CS20221021Bexam\CS20221021Bexam\bin\Debug\CS20221021Bexam.exe
+D:\user\Desktop\認真用\學業用\明新科大\111-1程式設計概論\上課做的練習\CS20221021Bexam\CS20221021Bexam\bin\Debug\CS20221021Bexam.pdb
+D:\user\Desktop\認真用\學業用\明新科大\111-1程式設計概論\上課做的練習\CS20221021Bexam\CS20221021Bexam\obj\Debug\CS20221021Bexam.exe
+D:\user\Desktop\認真用\學業用\明新科大\111-1程式設計概論\上課做的練習\CS20221021Bexam\CS20221021Bexam\obj\Debug\CS20221021Bexam.pdb
