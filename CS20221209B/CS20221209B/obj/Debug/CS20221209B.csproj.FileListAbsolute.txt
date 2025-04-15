@@ -1,0 +1,8 @@
+D:\上課做的練習\CS20221209B\CS20221209B\bin\Debug\CS20221209B.exe.config
+D:\上課做的練習\CS20221209B\CS20221209B\bin\Debug\CS20221209B.exe
+D:\上課做的練習\CS20221209B\CS20221209B\bin\Debug\CS20221209B.pdb
+D:\上課做的練習\CS20221209B\CS20221209B\obj\Debug\CS20221209B.csproj.AssemblyReference.cache
+D:\上課做的練習\CS20221209B\CS20221209B\obj\Debug\CS20221209B.csproj.SuggestedBindingRedirects.cache
+D:\上課做的練習\CS20221209B\CS20221209B\obj\Debug\CS20221209B.csproj.CoreCompileInputs.cache
+D:\上課做的練習\CS20221209B\CS20221209B\obj\Debug\CS20221209B.exe
+D:\上課做的練習\CS20221209B\CS20221209B\obj\Debug\CS20221209B.pdb
