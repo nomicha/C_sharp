@@ -1,0 +1,15 @@
+D:\CS20230324B\CS20230324B\bin\Debug\CS20230324B.exe.config
+D:\CS20230324B\CS20230324B\bin\Debug\CS20230324B.exe
+D:\CS20230324B\CS20230324B\bin\Debug\CS20230324B.pdb
+D:\CS20230324B\CS20230324B\obj\Debug\CS20230324B.csproj.AssemblyReference.cache
+D:\CS20230324B\CS20230324B\obj\Debug\CS20230324B.csproj.SuggestedBindingRedirects.cache
+D:\CS20230324B\CS20230324B\obj\Debug\CS20230324B.csproj.CoreCompileInputs.cache
+D:\CS20230324B\CS20230324B\obj\Debug\CS20230324B.exe
+D:\CS20230324B\CS20230324B\obj\Debug\CS20230324B.pdb
+D:\user\Desktop\認真用\學業用\明新科大\111-2進階程式設計\上課做的練習\CS20230324B\CS20230324B\bin\Debug\CS20230324B.exe.config
+D:\user\Desktop\認真用\學業用\明新科大\111-2進階程式設計\上課做的練習\CS20230324B\CS20230324B\bin\Debug\CS20230324B.exe
+D:\user\Desktop\認真用\學業用\明新科大\111-2進階程式設計\上課做的練習\CS20230324B\CS20230324B\bin\Debug\CS20230324B.pdb
+D:\user\Desktop\認真用\學業用\明新科大\111-2進階程式設計\上課做的練習\CS20230324B\CS20230324B\obj\Debug\CS20230324B.csproj.AssemblyReference.cache
+D:\user\Desktop\認真用\學業用\明新科大\111-2進階程式設計\上課做的練習\CS20230324B\CS20230324B\obj\Debug\CS20230324B.csproj.CoreCompileInputs.cache
+D:\user\Desktop\認真用\學業用\明新科大\111-2進階程式設計\上課做的練習\CS20230324B\CS20230324B\obj\Debug\CS20230324B.exe
+D:\user\Desktop\認真用\學業用\明新科大\111-2進階程式設計\上課做的練習\CS20230324B\CS20230324B\obj\Debug\CS20230324B.pdb

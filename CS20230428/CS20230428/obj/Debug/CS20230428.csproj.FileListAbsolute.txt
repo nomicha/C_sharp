@@ -1,0 +1,16 @@
+D:\111學年\111-2_教學\111-2_進階程式設計\Examples\CS20230428\CS20230428\bin\Debug\CS20230428.exe.config
+D:\111學年\111-2_教學\111-2_進階程式設計\Examples\CS20230428\CS20230428\bin\Debug\CS20230428.exe
+D:\111學年\111-2_教學\111-2_進階程式設計\Examples\CS20230428\CS20230428\bin\Debug\CS20230428.pdb
+D:\111學年\111-2_教學\111-2_進階程式設計\Examples\CS20230428\CS20230428\obj\Debug\CS20230428.csproj.AssemblyReference.cache
+D:\111學年\111-2_教學\111-2_進階程式設計\Examples\CS20230428\CS20230428\obj\Debug\CS20230428.csproj.SuggestedBindingRedirects.cache
+D:\111學年\111-2_教學\111-2_進階程式設計\Examples\CS20230428\CS20230428\obj\Debug\CS20230428.csproj.CoreCompileInputs.cache
+D:\111學年\111-2_教學\111-2_進階程式設計\Examples\CS20230428\CS20230428\obj\Debug\CS20230428.exe
+D:\111學年\111-2_教學\111-2_進階程式設計\Examples\CS20230428\CS20230428\obj\Debug\CS20230428.pdb
+D:\CS20230428\CS20230428\obj\Debug\CS20230428.csproj.AssemblyReference.cache
+D:\CS20230428\CS20230428\obj\Debug\CS20230428.csproj.SuggestedBindingRedirects.cache
+D:\CS20230428\CS20230428\obj\Debug\CS20230428.csproj.CoreCompileInputs.cache
+D:\CS20230428\CS20230428\obj\Debug\CS20230428.exe
+D:\CS20230428\CS20230428\obj\Debug\CS20230428.pdb
+D:\CS20230428\CS20230428\bin\Debug\CS20230428.exe.config
+D:\CS20230428\CS20230428\bin\Debug\CS20230428.exe
+D:\CS20230428\CS20230428\bin\Debug\CS20230428.pdb
